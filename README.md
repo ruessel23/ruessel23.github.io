@@ -1,5 +1,3 @@
-# ruessel23.github.io
-<!DOCTYPE html>
 <html lang="de">
 <head>
 <meta charset="UTF-8">
@@ -56,12 +54,12 @@ button{
 <body>
 
 <div class="box">
-    <h1>Willst du mit mir chillen? 😊</h1>
+    <h1>Willst du mit mir gv? 😊</h1>
 
     <button id="yes">Ja ❤️</button>
 </div>
 
-<button id="no">Nein 😢</button>
+<button id="no">Nein, ich hab Bauchi 😢</button>
 
 <script>
 
@@ -97,7 +95,7 @@ document.addEventListener("mousemove",(e)=>{
 });
 
 yes.onclick = ()=>{
-    alert("Jaaaa! 🥳 Freut mich! Dann machen wir bald was zusammen ❤️");
+    alert("Jaaaa! 🥳 LEEEETS GOOO ❤️");
 }
 
 </script>
